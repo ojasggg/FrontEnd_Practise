@@ -1,0 +1,22 @@
+div{
+  color:blue
+}
+
+.header{
+  background-color: crimson;
+}
+
+.leftContainer{
+  background-color: cyan;
+  align-content: flex-start;
+}
+
+.rightContainer{
+  background-color: darkblue;
+  align-content: flex-end;
+}
+
+.footer{
+background-color: darkmagenta;
+
+}
